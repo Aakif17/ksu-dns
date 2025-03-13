@@ -1,0 +1,6 @@
+id=ksu_dns
+name=Dynamic DNS Updater
+version=v1.0
+versionCode=100
+author=Aakif
+description=Dynamically update cloudflare DNS records using your phone's IP address
